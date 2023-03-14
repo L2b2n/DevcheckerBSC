@@ -1,5 +1,5 @@
 # DevcheckerBSC
-check dev wallet for airdrops beta
+check dev wallet for airdrops,deploy contracts , swaps  beta
 
 install :
 pip install requests prettytable pandas
