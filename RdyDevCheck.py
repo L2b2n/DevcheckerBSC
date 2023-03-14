@@ -4,13 +4,13 @@ import json
 import pandas as pd
 
 # API URLs and API keys
-bsc_api_key = "VCBK77BR9GDMXKJDQ36MVYW9KYEWG6EW9H"
+bsc_api_key = "yourapikey"
 api_url_latest_block = "https://api.bscscan.com/api?module=proxy&action=eth_getBlockByNumber&tag=latest&boolean=true"
 
 # Connect to the Binance Smart Chain network
 
 # Address of the deployment wallet to be checked
-deploy_wallet_address = "0xC5824Df4086012a3C917a074d21412a3e6D95403"
+deploy_wallet_address = "deploywalletaddressofthecontract"
 
 # Initialize the table
 table = PrettyTable()
